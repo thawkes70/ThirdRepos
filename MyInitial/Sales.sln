@@ -5,16 +5,27 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales", "Sales.csproj", "{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AD445AF-ECC9-4E93-8E25-09599D619731}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Temp\ICT449\Ticketing\Ticketing\TicketsForm.Designer.cs = ..\..\Temp\ICT449\Ticketing\Ticketing\TicketsForm.Designer.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Debug|x64.ActiveCfg = Debug|x64
+		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Debug|x64.Build.0 = Debug|x64
 		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Release|x64.ActiveCfg = Release|x64
+		{5587F12A-C3F0-42E6-98B2-0C1ED7E25FB6}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
